@@ -1,7 +1,7 @@
 # NAMA : FAHRI FAISAL | NIM : D121211070
 
 * import repo ini di folder htdocs(xampp)
-* jalankan tugasfinal.sql untuk generate database
+* import tugasfinal.sql untuk generate database
 ### Projek Pemrograman Web Kelas B
 * CRUD page /contact 
 <img src="https://github.com/fahrifaisal/tugasfinal-pemrogweb/assets/102718173/6a1bb724-aaa4-4265-80e9-5bcbe53d4e83" width=700>
