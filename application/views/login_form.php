@@ -10,7 +10,7 @@
 
 	<div class="container">
 		<h1>Login</h1>
-		<p>Masuk ke Dashboard</p>
+		<p>Masuk ke Dashboard Admin</p>
 
 		<?php if($this->session->flashdata('message_login_error')): ?>
 			<div class="invalid-feedback">
